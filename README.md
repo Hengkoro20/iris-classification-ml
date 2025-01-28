@@ -29,7 +29,6 @@ The best-performing decision tree model achieved:
 - **Confusion Matrix & Classification Report:** Indicating strong model performance across all three Iris species.
 
 If you have any suggestions or feedback, feel free to contact me via direct message on LinkedIn or email : hengkorowicaksono@gmail.com and www.linkedin.com/in/hengkoro/
-Nama Vanity URL
 
 
 #Dibimbing #DigitalSkillFair35
